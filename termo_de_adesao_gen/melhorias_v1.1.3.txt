@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b93f2500ebdd7a4cd6eafcfcd4cd6203b6e849b40502d409cd4da4e034d2e7a9
-size 1203
+MELHORIAS DA VERSÃO 1.1.3:
+
+Introduzimos alguns botões e melhorias que facilitarão o uso do aplicativo. São eles:
+
+1 - Inserção de um botão para inserção de um arquivo (PDF) adicional que servirá como contrato ou algum tipo
+de documento de mesma finalidade;
+
+2 - Inserção de um botão para inserção de uma marca d´água (imagem de fundo) no PDF gerado no final ao 
+pressionar GERAR TERMO. Com este botão será possível deixar seu termo de adesão mais personalizável e 
+com a cara da sua empresa;
+
+3 - Melhoria na interface de usuário para especificação da data de vencimento dos boletos do cliente através de um
+campo. Agora basta inserir os números correspondentes a data de vencimento estabelecida;
+
+4 - Melhoria na interface de usuário para especificação da data da adesão e do fechamento do contrato, incluindo um
+botão para inserção da data de hoje caso o usuário queira ganhar tempo;
+
+5 - Inserção de campo para especificação da forma de pagamento dos boletos adotadata pelo cliente;
+
+6 - Inserção de um botão que insere uma imagem da assinatura (rubrica) do profissional responsável pelo empresa, 
+o que deixa o termo de adesão ainda mais personalizável.
