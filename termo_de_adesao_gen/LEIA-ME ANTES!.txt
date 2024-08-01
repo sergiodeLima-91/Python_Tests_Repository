@@ -1,0 +1,31 @@
+SisGTA - Sistema Gerador de Termo de Adesão - Versão 1.1.3
+
+
+INTRUÇÕES:
+
+> INSTALAÇÃO:
+
+Clique duas vezes no executável SisGTA_setup e instale o programa no diretório recomendado pelo assistente;
+
+
+> USO:
+
+1 - Para gerar um termo de adesão com um contrato ou qualquer outro tipo de documento que especifique os termos da
+relação entre o cliente e a empresa, primeiro selecione o contrato em ADICIONAR CONTRATO(PDF). Em seguida, preencha
+os campos necessários para gerar o termo de adesão e por último pressione GERAR TERMO para criar um arquivo único 
+com base no contrato selecionado por voce anteriormente e nos dados fornecidos nos campos;
+
+2 - Os arquivos PDF gerados são salvos, por padrão, na pasta na qual o programa executável está presente (\SisGTA), mas
+é possível mudar o arquivo executável para outro diretório (importante também mudar a pasta "src" para o mesmo local).
+
+
+❌ NÃO FAÇA:
+
+1 - Não tente, primeiro, gerar o termo de adesão pressionando GERAR TERMO e depois clicar em ADICIONAR CONTRATO(PDF) para
+juntar os dois arquivos. Isso não funcionará e somente criará um arquivo com base nos dados fornecidos nos campos. É neces sário seguir esta ordem: primeiro, selecione o arquivo em PDF pressionando ADICIONAR CONTRATO(PDF). Segundo, preencha os campos e em seguida aperte GERAR TERMO;
+
+2 - Não retire o arquivo executável (SisGTA) do mesmo local onde está a pasta com os arquivos de imagem (src/images). Mantenha-os sempre no mesmo local e sem pastas com o mesmo nome (deve haver apenas uma pasta com o nome "src").
+
+Dúvidas ou sugestões, entre em contato pelo meu github através do https://github.com/sergiodeLima-91 ou via e-mail pelo sergiodelima22@gmail.com.
+
+OBRIGADO POR USAR MEU PROGRAMA!
